@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />Hai <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> , This is MUKESHKUMAR A <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /></h1>
 
----
+<h1 align="center"><img  src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  width="500" alt="coder"/>
+
+
 <h3 align="center">Multi-faceted tech enthusiast with expertise in Cybersecurity, HTML/CSS, Java, Android Development, Blockchain, and Networking</h3>
 
 ---
@@ -39,8 +41,10 @@
 
 
 
-🎨 About Me :
 
+🎨 About Me :
+<img src="https://cdn.pixabay.com/animation/2022/08/31/08/22/08-22-29-904_512.gif"  width="300" height="150" alt="coder" align = "right">
+	
 	- Pursued B.Eng (2019 - 2023) in Computer Science and Engineering (CSE) 
 	  from SNS College of Technology, Tamil Nadu 🏫
 	  
