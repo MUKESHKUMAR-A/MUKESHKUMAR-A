@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukeshkumaranandan" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="mukeshkumaranandan" height="30" width="40" /></a><a ref="https://linkedin.com/in/mukeshkumaranandan" target="blank">&nbsp;
-<img  align="center" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="mukeshkumar_2001"></a><a ref="https://linkedin.com/in/mukeshkumaranandan" target="blank">&nbsp;
+<img  align="center" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="mukeshkumar_2001"></a><a ref="https://linkedin.com/in/mukeshkumaranandan" target="blank">&nbsp;&nbsp;&nbsp;
 <img  align="center" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mukeshkumar_2001"></a>
 </p>
 
